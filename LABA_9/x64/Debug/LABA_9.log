@@ -1,0 +1,9 @@
+﻿  File41.cpp
+  File50.cpp
+  File8.cpp
+  main.cpp
+  Recur15.cpp
+  WorkWithFiles.cpp
+C:\Users\zerop\source\repos\Laba_9_new\LABA_9\WorkWithFiles.cpp(32,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  LABA_9.vcxproj -> C:\Users\zerop\source\repos\Laba_9_new\x64\Debug\LABA_9.exe
