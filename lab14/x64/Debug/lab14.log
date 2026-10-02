@@ -1,0 +1,12 @@
+﻿  Assoc17.cpp
+C:\Users\zerop\source\repos\Laba_14_new\lab14\Assoc17.cpp(33,36): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  Assoc2.cpp
+  Assoc21.cpp
+  stl_utils.cpp
+C:\Users\zerop\source\repos\Laba_14_new\lab14\stl_utils.cpp(103,64): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\zerop\source\repos\Laba_14_new\lab14\stl_utils.cpp(103,64): warning C4267:         with
+C:\Users\zerop\source\repos\Laba_14_new\lab14\stl_utils.cpp(103,64): warning C4267:         [
+C:\Users\zerop\source\repos\Laba_14_new\lab14\stl_utils.cpp(103,64): warning C4267:             _Ty=int
+C:\Users\zerop\source\repos\Laba_14_new\lab14\stl_utils.cpp(103,64): warning C4267:         ]
+  Создание кода...
+  lab14.vcxproj -> C:\Users\zerop\source\repos\Laba_14_new\x64\Debug\lab14.exe
