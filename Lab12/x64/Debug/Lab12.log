@@ -1,0 +1,8 @@
+﻿  Seq7.cpp
+  iter15.cpp
+  seq12.cpp
+  seq24.cpp
+C:\Users\zerop\source\repos\Laba_12_new\Lab12\seq24.cpp(122,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  stl_utils.cpp
+  Создание кода...
+  Lab12.vcxproj -> C:\Users\zerop\source\repos\Laba_12_new\x64\Debug\Lab12.exe
