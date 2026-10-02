@@ -1,0 +1,9 @@
+
+Expression: 0
+
+x = 4, result: 0
+
+Tree after replacing A+x with x+A:
+Prefix: 0 
+Postfix: 0 
+Infix: 0
